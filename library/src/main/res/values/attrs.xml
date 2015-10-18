@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IOSSwitchView -->
+    <declare-styleable name="IOSSwitchView">
+        <attr name="tintColor" format="reference|color" />
+        <attr name="thumbTintColor" format="reference|color" />
+        <attr name="strokeWidth" format="reference|dimension" />
+        <attr name="isOn" format="reference|boolean" />
+    </declare-styleable>
+</resources>
